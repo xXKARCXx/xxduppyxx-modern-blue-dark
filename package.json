@@ -1,0 +1,25 @@
+{
+  "name": "xxduppyxx-modern-blue-dark",
+  "displayName": "ModernBlue XDuppYX DARK",
+  "description": "Modern dark blue with multi-colors",
+  "version": "0.0.1",
+  "publisher": "XDxppyx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xXKARCXx/xxduppyxx-mordren-blue",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "XDxppyx",
+        "uiTheme": "vs-dark",
+        "path": "./themes/XDxppyx-color-theme.json"
+      }
+    ]
+  }
+}
