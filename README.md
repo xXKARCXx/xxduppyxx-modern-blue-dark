@@ -1,16 +1,17 @@
-# xxduppyxx-modern-blue-dark README
+# xxduppyxx-modern-blue README
+This looks kinda cool nice
 
-## Working with Markdown
+# Modern Dark Blue Theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Modern Blue is a modern, minimalistic theme for Visual Studio Code, designed with a focus on shades of blue to provide a calm and distraction-free coding experience.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-## For more information
+## Features
+- Beautiful, high-contrast shades of blue.
+- Optimized for readability and minimal eye strain.
+- Custom styling for syntax highlighting across popular programming languages.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## What i will be Doing with this
+- I will slowly be updating the color due to colors being off
+- This Project was a bit rushed
+- If want want me to make a person theme Contact me via email. you will have to pay i small fee of £3. i will send the whole project and its up to it you want to upload it.
