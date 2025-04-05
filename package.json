@@ -2,11 +2,12 @@
   "name": "xxduppyxx-modern-blue-dark",
   "displayName": "ModernBlue XDuppYX DARK",
   "description": "Modern dark blue with multi-colors",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "XDxppyx",
   "repository": {
     "type": "git",
-      "url": "https://github.com/xXKARCXxxduppyxx-modern-blue-dark"},
+    "url": "https://github.com/xXKARCXxxduppyxx-modern-blue-dark"
+  },
   "engines": {
     "vscode": "^1.98.0"
   },
