@@ -386,7 +386,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#b2caff"
+				"foreground": "#5e7acb"
 			}
 		},
 		{
@@ -421,7 +421,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#008bad"
+				"foreground": "#67aebe"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
       "name": "punctuation.definition",
       "scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
       "settings": {
-        "foreground": "#3700ff"
+        "foreground": "#afc8ff"
       }
     },
     {
@@ -1056,7 +1056,7 @@
       "name": "c++ function",
       "scope": "meta.function.c,meta.function.cpp",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#5e7acb"
       }
     },
     {
@@ -1324,7 +1324,7 @@
       "name": "C operator assignment",
       "scope": "keyword.operator.assignment.c,keyword.operator.comparison.c,keyword.operator.c,keyword.operator.increment.c,keyword.operator.decrement.c,keyword.operator.bitwise.shift.c,keyword.operator.assignment.cpp,keyword.operator.comparison.cpp,keyword.operator.cpp,keyword.operator.increment.cpp,keyword.operator.decrement.cpp,keyword.operator.bitwise.shift.cpp",
       "settings": {
-        "foreground": "#82b99f"
+        "foreground": "#c0ff9c"
       }
     },
     {
@@ -1415,7 +1415,7 @@
       "name": "Compound Assignment Operators",
       "scope": "keyword.operator.assignment.compound",
       "settings": {
-        "foreground": "#82b99f"
+        "foreground": "#c0ff9c"
       }
     },
     {
@@ -1497,7 +1497,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#b2caff"
+        "foreground": "#5e7acb"
       }
     },
     {
@@ -1634,7 +1634,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#3700ff"
+        "foreground": "#00b7ff"
       }
     },
     {
@@ -1655,7 +1655,7 @@
       "name": "Integers",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#008bad"
+        "foreground": "#67aebe"
       }
     },
     {
@@ -1690,7 +1690,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#b2caff"
       }
     },
@@ -1698,7 +1698,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#008bad"
       }
     },
@@ -1804,7 +1804,7 @@
       "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
       "scope": "markup.inline.raw.string.markdown",
       "settings": {
-        "foreground": "#3700ff"
+        "foreground": "#afc8ff"
       }
     },
     {
@@ -1936,7 +1936,7 @@
       "name": "Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json,source Json Meta Structure Array Json > Value Json > String Quoted Json,source Json Meta Structure Dictionary Json > Value Json > String Quoted Json > Punctuation,source Json Meta Structure Array Json > Value Json > String Quoted Json > Punctuation",
       "scope": "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
       "settings": {
-        "foreground": "#3700ff"
+        "foreground": "#afc8ff"
       }
     },
     {
@@ -2093,6 +2093,14 @@
         "foreground": "#b2caff"
       }
     },
+    {
+      "name": "python function support",
+      "scope": "support.token.decorator.python,meta.function.decorator.identifier.python",
+      "settings": {
+        "foreground": "#c0ff9c"
+      }
+    },
+    
     {
       "name": "python function support",
       "scope": "support.token.decorator.python,meta.function.decorator.identifier.python",
@@ -2604,7 +2612,7 @@
         "beginning.punctuation.definition.list.markdown.xi"
       ],
       "settings": {
-        "foreground": "#a9a9a9"
+        "foreground": "#485b62"
       }
     },
     {
@@ -2688,7 +2696,7 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#a9a9a9"
+        "foreground": "#485b62"
       }
     },
     {
