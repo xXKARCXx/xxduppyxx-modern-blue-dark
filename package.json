@@ -32,7 +32,13 @@
         "label": "XDxppyx",
         "uiTheme": "vs-dark",
         "path": "./themes/XDxppyx-color-theme.json"
+      },
+      {
+        "label": "XDxppyx2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/XDxppyx-color-theme1.json"
       }
+
     ]
   }
 }
