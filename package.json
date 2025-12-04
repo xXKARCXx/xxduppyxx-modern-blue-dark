@@ -2,7 +2,7 @@
   "name": "xxduppyxx-modern-blue-dark",
   "displayName": "ModernBlue XDuppYX DARK",
   "description": "Modern dark blue with multi-colors",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "publisher": "XDxppyx",
   "repository": {
     "type": "git",
@@ -19,7 +19,6 @@
     "grey",
     "XDxppyx"
   ],
-
   "engines": {
     "vscode": "^1.98.0"
   },
