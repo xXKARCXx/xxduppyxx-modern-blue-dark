@@ -1,5 +1,5 @@
 # xxduppyxx-modern-blue README
-This looks kinda cool nice
+This is my theme
 
 # Modern Dark Blue Theme
 
