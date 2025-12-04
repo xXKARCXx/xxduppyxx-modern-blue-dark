@@ -8,6 +8,18 @@
     "type": "git",
     "url": "https://github.com/xXKARCXxxduppyxx-modern-blue-dark"
   },
+  "icon": "",
+  "keywords": [
+    "theme",
+    "blue",
+    "green",
+    "white",
+    "cream",
+    "black",
+    "grey",
+    "XDxppyx"
+  ],
+
   "engines": {
     "vscode": "^1.98.0"
   },
