@@ -6,7 +6,7 @@ These are the themes i created
 
 
 ### XDxppyx-Refined
-![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/master/Images/XDxppyx_orginal.png?raw=true)
+![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/70c170eb5e24b1fe2c82fad8b54b84b009bf7a3f/Images/XDxppyx_refined.png?raw=true)
 
 
 ### XDxppyx-Refined (Light)
