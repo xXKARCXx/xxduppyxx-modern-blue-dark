@@ -36,6 +36,21 @@
         "label": "XDxppyx Refined",
         "uiTheme": "vs-dark",
         "path": "./themes/XDxppyx-color-theme-refined.json"
+      },
+      {
+      "label": "XDxppyx Refined Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/XDxppyX-color-theme-refined-light.json"
+      },
+      {
+      "label": "XDxppyx Refined Light MintSand",
+        "uiTheme": "vs",
+        "path": "./themes/XDxppyX-color-theme-refined-light-mintsand.json"
+      },
+      {
+      "label": "XDxppyx Refined Light PaperMint",
+        "uiTheme": "vs",
+        "path": "./themes/XDxppyX-color-theme-refined-light-papermint.json"
       }
     ]
   }
