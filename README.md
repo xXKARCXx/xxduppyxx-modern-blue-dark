@@ -1,7 +1,10 @@
 ## My Themes
 These are the themes i created
 ### XDxppyx
-![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/cea9f737a74911c5edb96e309cd8275b0ce81997/Images/XDxppyx_orginal.png?raw=true)
+![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/cea9f737a74911c5edb96e309cd8275b0ce81997/Images/XDxppyx_orginal.png?raw=true
+
+
+![XDxppyx orginal](Images\XDxppyx_orginal.png)
 
 
 ### XDxppyx-Refined
@@ -14,12 +17,6 @@ These are the themes i created
 
 ### PaperMint
 ![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/70c170eb5e24b1fe2c82fad8b54b84b009bf7a3f/Images/PaperMint.png)
-
-### PaperMint
-![VS Code Marketplace](Images/PaperMint.png)
-
-
-
 
 ### MintSand
 ![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/70c170eb5e24b1fe2c82fad8b54b84b009bf7a3f/Images/MintSand.png?raw=true)
