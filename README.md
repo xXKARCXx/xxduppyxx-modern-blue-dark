@@ -4,9 +4,6 @@ These are the themes i created
 ![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/cea9f737a74911c5edb96e309cd8275b0ce81997/Images/XDxppyx_orginal.png?raw=true)
 
 
-![XDxppyx orginal](Images\XDxppyx_orginal.png)
-
-
 ### XDxppyx-Refined
 ![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/70c170eb5e24b1fe2c82fad8b54b84b009bf7a3f/Images/XDxppyx_refined.png?raw=true)
 
