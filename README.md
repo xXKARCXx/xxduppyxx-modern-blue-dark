@@ -1,7 +1,7 @@
 ## My Themes
 These are the themes i created
 ### XDxppyx
-![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/cea9f737a74911c5edb96e309cd8275b0ce81997/Images/XDxppyx_orginal.png?raw=true width ="250" height ="250")
+![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/cea9f737a74911c5edb96e309cd8275b0ce81997/Images/XDxppyx_orginal.png?raw=true)
 
 
 ### XDxppyx-Refined
