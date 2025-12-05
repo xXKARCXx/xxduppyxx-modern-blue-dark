@@ -6,8 +6,12 @@
   "publisher": "XDxppyx",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xXKARCXxxduppyxx-modern-blue-dark"
+    "url": "https://github.com/xXKARCXxxduppyxx-modern-blue-dark.git"
   },
+"bugs": {
+  "url": "https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/issues"
+},
+  "homepage": "https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark",
   "icon": "logo/icon_xdxppyx.png",
   "keywords": [
     "theme",
