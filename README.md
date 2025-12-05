@@ -13,7 +13,12 @@ These are the themes i created
 
 
 ### PaperMint
-![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/70c170eb5e24b1fe2c82fad8b54b84b009bf7a3f/Images/PaperMint.png?raw=true)
+![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/70c170eb5e24b1fe2c82fad8b54b84b009bf7a3f/Images/PaperMint.png)
+
+### PaperMint
+![VS Code Marketplace](Images/PaperMint.png)
+
+
 
 
 ### MintSand
