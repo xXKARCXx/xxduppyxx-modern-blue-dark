@@ -2,7 +2,7 @@
   "name": "xxduppyxx-modern-blue-dark",
   "displayName": "ModernBlue XDuppYX DARK",
   "description": "Modern dark blue with multi-colors",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "publisher": "XDxppyx",
   "repository": {
     "type": "git",
@@ -38,17 +38,17 @@
         "path": "./themes/XDxppyx-color-theme-refined.json"
       },
       {
-      "label": "XDxppyx Refined Light",
+        "label": "XDxppyx Refined Light",
         "uiTheme": "vs-dark",
         "path": "./themes/XDxppyX-color-theme-refined-light.json"
       },
       {
-      "label": "XDxppyx Refined Light MintSand",
+        "label": "XDxppyx Refined Light MintSand",
         "uiTheme": "vs",
         "path": "./themes/XDxppyX-color-theme-refined-light-mintsand.json"
       },
       {
-      "label": "XDxppyx Refined Light PaperMint",
+        "label": "XDxppyx Refined Light PaperMint",
         "uiTheme": "vs",
         "path": "./themes/XDxppyX-color-theme-refined-light-papermint.json"
       }
