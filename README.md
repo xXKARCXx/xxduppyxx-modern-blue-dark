@@ -2,7 +2,7 @@
 These are the themes i created
 ##
 XDxppyx
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-cpp.png?raw=true)
+![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/cea9f737a74911c5edb96e309cd8275b0ce81997/Images/XDxppyx_orginal.png?raw=true)
 
 ##
  minimalistic theme for Visual Studio Code, designed with a focus on shades of blue,green,yellow,white to provide a calm and distraction-free coding experience.
