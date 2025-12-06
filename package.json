@@ -38,23 +38,43 @@
       },
       {
         "label": "XDxppyx Refined",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/XDxppyx-color-theme-refined.json"
       },
       {
         "label": "XDxppyx Refined Light",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/XDxppyX-color-theme-refined-light.json"
       },
       {
-        "label": "XDxppyx Refined Light MintSand",
+        "label": "XDxppyx Refined MintSand",
         "uiTheme": "vs",
         "path": "./themes/XDxppyX-color-theme-refined-light-mintsand.json"
       },
       {
-        "label": "XDxppyx Refined Light PaperMint",
+        "label": "XDxppyx Refined PaperMint",
         "uiTheme": "vs",
         "path": "./themes/XDxppyX-color-theme-refined-light-papermint.json"
+      },
+      {
+        "label": "XDxppyx Refined Bluesand",
+        "uiTheme": "vs",
+        "path": "./themes/XDxppyX-color-theme-refined-light-bluesand.json"
+      },
+      {
+        "label": "XDxppyx Refined PaperBlue",
+        "uiTheme": "vs",
+        "path": "./themes/XDxppyX-color-theme-refined-light-paperblue.json"
+      },
+      {
+        "label": "XDxppyx Refined LightBlue",
+        "uiTheme": "vs",
+        "path": "./themes/XDxppyX-color-theme-refined-light-blue.json"
+      },
+      {
+        "label": "XDxppyx Refined DarkBlue",
+        "uiTheme": "vs",
+        "path": "./themes/XDxppyX-color-theme-refined-dark-blue.json"
       }
     ]
   }
