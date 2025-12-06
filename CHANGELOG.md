@@ -68,8 +68,3 @@ New features or components introduced
 -add 4 new theme called DarkBlue, LightBlue, BlueSand and PaperBlue
 
 
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased](N/A)
-
