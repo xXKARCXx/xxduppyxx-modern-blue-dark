@@ -29,7 +29,7 @@ These are the themes i created
 - Custom styling for syntax highlighting across popular programming languages.
 
 
-##Feedback
+## Feedback
 -I want feedback on small adjustments i can make, like if some colours too bright or too dark. Specify the theme and the problem.
 
 ## What i will be Doing with this
