@@ -2,7 +2,7 @@
 These are the themes i created
 
 ### XDxppyx
-![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/2b5f50640bc86e9d412c5124210c6386fe93effd/Images/XDxppyx_orginal.png?raw=true)
+![VS Code Marketplace](https://raw.githubusercontent.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/2b5f50640bc86e9d412c5124210c6386fe93effd/Images/XDxppyx_orginal.png)
 
 
 ### XDxppyx-Refined
