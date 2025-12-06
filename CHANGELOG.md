@@ -1,8 +1,8 @@
 # Change Log
-## Project Name:XDuppyX Themes
-## Version:4.0.0
-## Last Updated: 12/6/2025 9:07 PM
-## All notable changes to XDuppYX Themes extension will be documented in this file.
+### Project Name:XDuppyX Themes
+### Version:4.0.0
+### Last Updated: 12/6/2025 9:07 PM
+### All notable changes to XDuppYX Themes extension will be documented in this file.
 
 ## Version 1.0.0 — 05-04-2025
 
@@ -49,7 +49,7 @@ Bug fixes or resolved issues
 -fix labelled name for themes
 
 ## Version 3.0.0 — 04-12-2025
-Added### 
+### Added 
 New features or components introduced
 -add 3 new theme called XDXppyX-refine-Light , Minstsand and PaperMint
 
