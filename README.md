@@ -26,7 +26,7 @@ These are the themes i created
 ![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/faafd01cc4cbe18709df78acf3937303c2b0b45c/Images/paperblue.png?raw=true)
 
 ### LightBlue
-![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/faafd01cc4cbe18709df78acf3937303c2b0b45c/Images/MintSand.png?raw=true)
+![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/9902509587ff5cb36f0707987471e110b191e7e4/Images/light_blue.png?raw=true)
 
 ### Darkblue
 ![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/faafd01cc4cbe18709df78acf3937303c2b0b45c/Images/darkblue.png?raw=true)

@@ -1,6 +1,6 @@
 # Change Log
 ### Project Name:XDuppyX Themes
-### Version:4.0.0
+### Version:4.3.1
 ### Last Updated: 12/6/2025 9:07 PM
 ### All notable changes to XDuppYX Themes extension will be documented in this file.
 
@@ -58,6 +58,10 @@ New features or components introduced
 ## Version 3.2.0 - 04-12-2025
 
 ## Version 4.0.0 - 0-12-2025
+
+## Version (4.0.0- 4.3.1 - 0-12-2025
+### Fixed
+Image for store/repo so users can view theme before downloading
 
 ### Changed
 Updates to existing functionality
