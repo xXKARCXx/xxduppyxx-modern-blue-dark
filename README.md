@@ -2,22 +2,34 @@
 These are the themes i created
 
 ### XDxppyx
-![VS Code Marketplace](https://raw.githubusercontent.com.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/master/Images/XDxppyx_refined.png)
+![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/faafd01cc4cbe18709df78acf3937303c2b0b45c/Images/original.png?raw=true)
 
 
 ### XDxppyx-Refined
-![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/70c170eb5e24b1fe2c82fad8b54b84b009bf7a3f/Images/XDxppyx_refined.png?raw=true)
+![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/faafd01cc4cbe18709df78acf3937303c2b0b45c/Images/XDxppyx_refined.png?raw=true)
 
 
 ### XDxppyx-Refined (Light)
-![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/70c170eb5e24b1fe2c82fad8b54b84b009bf7a3f/Images/XDxppyx_light_refined.png?raw=true)
+![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/faafd01cc4cbe18709df78acf3937303c2b0b45c/Images/xdxppyx_refined-light.png?raw=true)
 
 
 ### PaperMint
-![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/70c170eb5e24b1fe2c82fad8b54b84b009bf7a3f/Images/PaperMint.png)
+![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/faafd01cc4cbe18709df78acf3937303c2b0b45c/Images/PaperMint.png?raw=true)
 
 ### MintSand
-![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/70c170eb5e24b1fe2c82fad8b54b84b009bf7a3f/Images/MintSand.png?raw=true)
+![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/faafd01cc4cbe18709df78acf3937303c2b0b45c/Images/MintSand.png?raw=true)
+
+### BlueSand
+![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/faafd01cc4cbe18709df78acf3937303c2b0b45c/Images/bluesand.png?raw=true)
+
+### PaperBlue
+![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/faafd01cc4cbe18709df78acf3937303c2b0b45c/Images/paperblue.png?raw=true)
+
+### LightBlue
+![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/faafd01cc4cbe18709df78acf3937303c2b0b45c/Images/MintSand.png?raw=true)
+
+### Darkblue
+![VS Code Marketplace](https://github.com/xXKARCXx/xxduppyxx-modern-blue-dark/blob/faafd01cc4cbe18709df78acf3937303c2b0b45c/Images/darkblue.png?raw=true)
 
 
 ##
